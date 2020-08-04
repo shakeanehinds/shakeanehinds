@@ -1,4 +1,7 @@
+![About Me](https://github.com/shakeanehinds/shakeanehinds/raw/master/header.gif)
+
 ### Hi there 👋
+
 
 <!--
 **shakeanehinds/shakeanehinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
